@@ -25,7 +25,7 @@ Full stack software engineer with a background in education. Really enjoy playin
 
 ## Things I've worked on 🚀
 
-Apatheia 📖
+### Apatheia 📖
 
 ![Github](https://github.com/tom-raf/apatheia-project) 
 
@@ -34,7 +34,7 @@ Apatheia 📖
 
 Lightweight journalling app with daily prompts inspired by Greco-Roman philosophers.
 
-Grapely 🍇
+### Grapely 🍇
 
 ![Github](https://github.com/Adrlloyd/grapely-project)
 
@@ -46,7 +46,7 @@ Wine selection app with features for pairing / customer flow / api integration.
 
 ## Solo Projects
 
-Songrunner 🏃🎶
+### Songrunner 🏃🎶
 
 ![Songrunner](https://github.com/tom-raf/SongRunner)
 
