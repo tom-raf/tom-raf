@@ -15,6 +15,7 @@ Full stack software engineer with a background in education. Really enjoy playin
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostGres](https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge)
 ![Angular](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -31,6 +32,9 @@ Full stack software engineer with a background in education. Really enjoy playin
 
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 Lightweight journalling app with daily prompts inspired by Greco-Roman philosophers.
 
@@ -38,9 +42,11 @@ Lightweight journalling app with daily prompts inspired by Greco-Roman philosoph
 
 ![Github](https://github.com/Adrlloyd/grapely-project)
 
+![PostGres](https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 Wine selection app with features for pairing / customer flow / api integration.
 
@@ -49,6 +55,8 @@ Wine selection app with features for pairing / customer flow / api integration.
 ### Songrunner 🏃🎶
 
 ![Songrunner](https://github.com/tom-raf/SongRunner)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 App that integrates SpotifyAPI to generate playlists for your runs. 
 
