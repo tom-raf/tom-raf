@@ -52,6 +52,15 @@ Wine selection app with features for pairing / customer flow / api integration.
 
 ## Solo Projects
 
+### Trainsdash 
+
+![Traindash](https://traindash-59btzlhx6-effraf-s-projects.vercel.app/)
+![Repo](https://github.com/tom-raf/traindashC/tree/main)
+Angular / Supabase SQL / Vercel / Render / Tailwind / Various API
+
+Live service tracker for reliability of UK trains.
+
+
 ### Songrunner 🏃🎶
 
 ![Songrunner](https://github.com/tom-raf/SongRunner)
