@@ -71,12 +71,6 @@ App that integrates SpotifyAPI to generate playlists for your runs.
 
 
 
-
-## Things I'm learning 📓
-
-I'm slowly working my way through rustlings / vimmotions, the appeal of working purely off keyboard is endearing. I've also been dabbling in training my own locally hosted LLMs but it's been somewhat messy. I'm not even sure what I'd use it for tbh, just the love of the game.
-
-
 <!--
 **tom-raf/tom-raf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
